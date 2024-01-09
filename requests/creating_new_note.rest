@@ -2,6 +2,6 @@
  Content-Type: application/json
 
  {
-    "content": "VS code rest client is pretty handy tool",
+    "content": "Ensure everything still works",
     "important": true
  }
